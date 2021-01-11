@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <!--  class name="testCases.WareHouse_Delivery_MobileTest"/-->
-      <class name="testCases.GetBookingIds_RestfulBookerUsingBDDStyle"/>
+      <class name="testCases.TestRest1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
